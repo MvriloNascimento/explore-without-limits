@@ -20,7 +20,7 @@ Challenge referring to stage 04 intensivão by @rocketseat.
 - classes and more.
 
 
-## Autores
+## Authors
 
 - [@MvriloNascimento](https://www.github.com/MvriloNascimento)
 
