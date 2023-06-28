@@ -4,7 +4,7 @@
 Challenge referring to stage 04 intensivão by @rocketseat.
 
 
-
+<img src="/images/cover.svg.png" alt="figma image" class="figma">
 
 
 
